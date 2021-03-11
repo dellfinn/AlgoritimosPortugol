@@ -1,0 +1,19 @@
+início  {
+    inteiro: idade;
+    caractere: nome;
+    real: altura;
+    
+    //altura=1.65;
+    leia("Qual é sua altura? ",altura); 
+    //nome = "Italo Ruan";
+    leia("Digite seu nome ", nome);
+    //idade= 18;
+    leia("Qual é a sua idade ",idade);
+    
+    caractere: info;
+    
+info= nome+"," + idade +","+altura;
+    
+    escreva(info
+
+}
